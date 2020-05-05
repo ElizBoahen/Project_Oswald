@@ -8,9 +8,10 @@ To enter the site, please click the "index.html" file. You're all set. Please en
 Best wishes,
 Eli
 
-==========================
+============= PROJECT LOGS ==============
 
 April 27th 2020
+
 Hello!
 
 Thank you for embarking on this journey with me for this project. I know it's not prety as of now /but/ I still want to show you what I've done so far.
@@ -24,7 +25,7 @@ From there, I'm going to create a survey so I can collect data more efficently. 
 Best wishes,
 Eli
 
-==========================
+===========================
 
 May 5th 2020
 
