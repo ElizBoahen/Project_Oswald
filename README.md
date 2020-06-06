@@ -39,3 +39,17 @@ My next step is to add the CSS to every page, add all survey data, and add a pro
 
 Best wishes,
 Eli
+
+
+===========================
+
+Jun 6th 2020
+
+Hi there,
+
+I'm jumping back into this project.
+
+I aim to make minor edits ( indentation, cleaning up code, etc.). With the current state of the world, the data collected looks even stranger. Everything was once so normal. I wish I collected more responses, but I did what I could at the time.
+
+Best wishes,
+Eli
