@@ -53,3 +53,16 @@ I aim to make minor edits ( indentation, cleaning up code, etc.). With the curre
 
 Best wishes,
 Eli
+
+===========================
+
+Jun 17th 2020
+
+Hi,
+
+Saw an error I overlooked. Just came back to fix it. 21:00 ha a mistake
+
+I aim to make minor edits ( indentation, cleaning up code, etc.). With the current state of the world, the data collected looks even stranger. Everything was once so normal. I wish I collected more responses, but I did what I could at the time.
+
+Best wishes,
+Eli
