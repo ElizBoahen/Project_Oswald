@@ -43,7 +43,7 @@ Eli
 
 ===========================
 
-Jun 6th 2020
+June 6th 2020
 
 Hi there,
 
@@ -56,7 +56,7 @@ Eli
 
 ===========================
 
-Jun 17th 2020
+June 17th 2020
 
 Hi,
 
@@ -66,3 +66,16 @@ I aim to make minor edits ( indentation, cleaning up code, etc.). With the curre
 
 Best wishes,
 Eli
+
+===========================
+
+June 25th 2020
+
+Hello again,
+
+I'm returning to this project to change the "is" to "someone was" in order to make the sentences flow better but also becuase those are no longer present realities.
+
+Best wishes,
+Eli
+
+===========================
