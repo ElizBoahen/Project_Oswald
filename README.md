@@ -79,3 +79,14 @@ Best wishes,
 Eli
 
 ===========================
+
+June 27th 2020
+
+Hi,
+
+I'm back to change the "is" to "someone was" and make the colmns of text consistent.
+
+Best wishes,
+Eli
+
+===========================
